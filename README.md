@@ -116,11 +116,6 @@ I build machine-learning systems and the full-stack products that put them in pe
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aksharaagarwal21&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&border=30363D&stroke=30363D&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
-  <img src="https://streak-stats.demolab.com?user=aksharaagarwal21&ring=059669&fire=059669&currStreakLabel=059669" alt="GitHub contribution streak" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksharaagarwal21/aksharaagarwal21/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/aksharaagarwal21/aksharaagarwal21/output/github-snake.svg" alt="Contribution graph animated as a snake" />
 </picture>
