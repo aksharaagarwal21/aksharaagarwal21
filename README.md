@@ -28,6 +28,24 @@ I build machine-learning systems and the full-stack products that put them in pe
 <table>
   <tr>
     <td width="42%" valign="top">
+      <a href="https://aksharaagarwal21.github.io/PostureVision/"><img src="assets/projects/posturevision.png" alt="PostureVision: your free AI personal trainer, right in the browser" /></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/aksharaagarwal21/PostureVision">PostureVision · AI Workout Coach in the Browser</a></h3>
+      Counts your reps, checks your form and talks you through every set using just a webcam. The video never leaves your device.
+      <br /><br />
+      • MediaPipe Pose with 3D joint angles, One Euro smoothing and a calibrated rep counter that works from the front or the side<br />
+      • Red marks on the joint that's wrong, a voice coach, and a k-NN classifier you can train on your own reps<br />
+      • 16 exercises with warm-ups, custom plans with sets and rest timers, calorie estimates and workout history<br />
+      • 150+ Vitest tests, deployed to GitHub Pages with GitHub Actions, installable on phones
+      <br /><br />
+      <code>React</code> <code>JavaScript</code> <code>MediaPipe</code> <code>Web Speech API</code> <code>Vitest</code> <code>GitHub Actions</code>
+      <br /><br />
+      <a href="https://aksharaagarwal21.github.io/PostureVision/"><b>Live demo</b></a> · <a href="https://github.com/aksharaagarwal21/PostureVision">Source</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
       <a href="https://pac-lab-steel.vercel.app/"><img src="assets/projects/paclab.png" alt="PAC-LAB home screen" /></a>
     </td>
     <td valign="top">
