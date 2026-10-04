@@ -1,6 +1,6 @@
 # Hi, I'm Akshara Kumari 👋
 
-**AI/ML · Full Stack · Cloud · Big Data**
+**AI/ML · Agentic AI · Generative AI · System Design · Full Stack · Cloud · Big Data**
 
 I build machine-learning systems and the full-stack products that put them in people's hands, from research notebooks to deployed web apps.
 
