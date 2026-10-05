@@ -143,8 +143,7 @@ I build machine-learning systems and the full-stack products that put them in pe
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-aksharaagarwal21-181717?style=flat-square&logo=github)](https://github.com/aksharaagarwal21)
-<!-- Uncomment and fill in when ready:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-10B981?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-kumari-bb38b535b/)
+[![Email](https://img.shields.io/badge/Email-Contact-10B981?style=flat-square&logo=gmail&logoColor=white)](mailto:aksharakumari1208@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://aksharaagarwal21.github.io/My_portfolio/)
+
