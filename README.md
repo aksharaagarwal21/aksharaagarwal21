@@ -13,7 +13,7 @@ I build machine-learning systems and the full-stack products that put them in pe
 ## About Me
 
 - 🎓 B.Tech in Computer Science and Engineering, specialising in **Big Data Analytics**
-- 🧠 Interested in machine learning, LLMs, computer vision and the engineering needed to ship them
+- 🧠 Interested in machine learning, Advanced Ai, LLMs, computer vision and the engineering needed to ship them
 - 🔬 I like research-backed work: clear baselines, honest evaluation, reproducible notebooks
 - 📈 Currently going deeper into advanced AI, cloud systems and software engineering
 
