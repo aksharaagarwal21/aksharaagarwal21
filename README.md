@@ -63,6 +63,24 @@ I build machine-learning systems and the full-stack products that put them in pe
   </tr>
   <tr>
     <td width="42%" valign="top">
+      <a href="https://github.com/aksharaagarwal21/Face-mask-detection"><img src="assets/projects/facemask.jpg" alt="Field mode on a phone flagging no mask, with mask and incorrectly worn mask" /></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/aksharaagarwal21/Face-mask-detection">Face Mask Detection · Real-Time Mask Compliance</a></h3>
+      Finds every face in a photo, video, webcam or phone camera and classifies it as with mask, without mask or mask worn incorrectly.
+      <br /><br />
+      • EfficientNetV2-B0 classifier: 98.97% accuracy on a held-out test split of 582 faces, with temperature-scaled confidences (ECE 0.0096)<br />
+      • YuNet face detection with small-image upscaling, plus face tracking and per-face smoothing so one blurry frame doesn't flip a label<br />
+      • Field mode for phones: zoom, long-range detection for distant crowds and an enlarged card for every possible violation<br />
+      • Flask dashboard and REST API, Grad-CAM explanations, TFLite export, pytest, GitHub Actions CI and Docker
+      <br /><br />
+      <code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>Flask</code> <code>TFLite</code> <code>Docker</code>
+      <br /><br />
+      <a href="https://github.com/aksharaagarwal21/Face-mask-detection"><b>Source & docs</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="top">
       <a href="https://github.com/aksharaagarwal21/stockout-aware-demand-forecasting"><img src="assets/projects/stockout.png" alt="Simulated ordering-cost heatmaps across stockout mechanisms" /></a>
     </td>
     <td valign="top">
@@ -78,29 +96,11 @@ I build machine-learning systems and the full-stack products that put them in pe
       <a href="https://github.com/aksharaagarwal21/stockout-aware-demand-forecasting"><b>Notebook & results</b></a>
     </td>
   </tr>
-  <tr>
-    <td width="42%" valign="top">
-      <a href="https://github.com/aksharaagarwal21/SeatSync"><img src="assets/projects/seatsync.png" alt="SeatSync seat selection screen" /></a>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/aksharaagarwal21/SeatSync">SeatSync · Concurrent Ticket Booking</a></h3>
-      An event booking platform built around one guarantee: two people can never book the same seat.
-      <br /><br />
-      • Optimistic (<code>@Version</code>) and pessimistic (<code>SELECT … FOR UPDATE</code>) locking, backed by database constraints<br />
-      • Tested with 100 concurrent requests for one seat: exactly one succeeds<br />
-      • Live seat map over SSE, emailed two-step verification, Docker, CI and a 500-user JMeter plan
-      <br /><br />
-      <code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code>
-      <br /><br />
-      <a href="https://github.com/aksharaagarwal21/SeatSync"><b>Source & docs</b></a>
-    </td>
-  </tr>
 </table>
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **Bloodwing** | Mental health care platform with role-based dashboards and an AI companion using retrieval-augmented Llama 3, crisis detection and moderation | React · FastAPI · MongoDB · Groq | [Live](https://bloodwing-mentalcare.vercel.app/) · [Source](https://github.com/aksharaagarwal21/Mental-Health-Care-Web) |
-| **Face Mask Detection** | Real-time mask-compliance monitoring: 3-class CNN, face tracking, alerts and an analytics dashboard | TensorFlow · OpenCV · Flask | [Source](https://github.com/aksharaagarwal21/Face-mask-detection) |
 | **University ERP System** | Student and faculty portals for attendance, marks, timetables and fees, on a SQL schema with views, triggers and transactions | React · Express · MySQL | [Source](https://github.com/aksharaagarwal21/University_erp_System) |
 
 **Also building:** [DeepScholarAI](https://github.com/aksharaagarwal21/DeepScholarAI), an AI research assistant I'm developing phase by phase, from LLM foundations to agentic retrieval.
